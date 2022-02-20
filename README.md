@@ -24,6 +24,7 @@
 </div>
     <div align="center" style="display: inline-block;">
     <h2 align="center"> APRENDENDO </h2>
-    <img align="center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-   <img align="center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img align="center" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img align="center" height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img align="center" title="Firebird" alt="logo-fb" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Firebird_logo.svg/1200px-Firebird_logo.svg.png">    
 </div>
