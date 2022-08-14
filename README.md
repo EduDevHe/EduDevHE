@@ -49,11 +49,11 @@ const Eduardo: EduDevHe = {
   <br>  
 <div align="center" style="display: inline-block;">
   <img align="center" 
-  height="180em" src="https://github-readme-stats.vercel.app/api?username=EduDev&repo=github-readme-stats&theme=swift"
+  height="170em" src="https://github-readme-stats.vercel.app/api?username=EduDev&repo=github-readme-stats&theme=swift"
    />
   <img
     align="center"
-    height="180em"
+    height="170em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=7&theme=swift"
   />
 </div>
