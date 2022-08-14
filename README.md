@@ -1,31 +1,56 @@
-<h1 align="center">:space_invader:  EDUARDO HENRIQUE  :space_invader:</h1>
+# :space_invader: EDUARDO HENRIQUE :space_invader:</h1>
 
+## About me:
+
+```typescript
+interface EduDevHe {
+  name: string;
+  age: string;
+  mainSkill(): string[];
+}
+
+const Eduardo: EduDevHe = {
+  name: "EDUARDO HENRIQUE 🧠",
+  age: "21 🎂",
+  mainTools() {
+    return [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "ReactJs",
+      "styled-components",
+    ];
+  },
+};
+```
 <div align="center" style="display: inline-block;">
-    <h2 align="center"> TECNOLOGIAS </h2>
-:computer:
-    <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    :computer:
-</div>
-
-
-<div align="center" style="display: inline-block;"><div style="display: inline-block;">
+  <img align="center" 
+  height="180em" src="https://github-readme-stats.vercel.app/api?username=EduDev&repo=github-readme-stats&theme=swift"
+   />
   <img
     align="center"
-    height="150em"
-    src="https://github-readme-stats.vercel.app/api?username=EduDevHe&show_icons=true&custom_title=Minhas Estatísticas no GitHub&locale=pt-br&theme=react&include_all_commits=true&count_private=true"
-  />
-  <img
-    align="center"
-    height="150em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=7&theme=react"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=7&theme=swift"
   />
 </div>
-    <div align="center" style="display: inline-block;">
-    <h2 align="center"> APRENDENDO </h2>
-    <img align="center" height = "30" width = "30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-    <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-    <img align="center" title="Firebird" alt="logo-fb" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Firebird_logo.svg/1200px-Firebird_logo.svg.png">    
+
+### Main Tools 🧰 :
+
+<div>
+  <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height = "30" width = "30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>    
+  <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
+
+### Learning 📚:
+
+<div>
+  <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/>
+  <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+</div>
+
