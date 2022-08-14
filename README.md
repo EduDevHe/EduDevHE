@@ -1,6 +1,8 @@
-# :space_invader: EDUARDO HENRIQUE :space_invader:</h1>
+# EDUARDO HENRIQUE
 
-## About me:
+## About me: 
+
+ 👋 Hi, my name is Eduardo Henrique, and i work as a Front-End develop 🦄.
 
 ```typescript
 interface EduDevHe {
@@ -24,16 +26,6 @@ const Eduardo: EduDevHe = {
   },
 };
 ```
-<div align="center" style="display: inline-block;">
-  <img align="center" 
-  height="180em" src="https://github-readme-stats.vercel.app/api?username=EduDev&repo=github-readme-stats&theme=swift"
-   />
-  <img
-    align="center"
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=7&theme=swift"
-  />
-</div>
 
 ### Main Tools 🧰 :
 
@@ -53,4 +45,15 @@ const Eduardo: EduDevHe = {
   <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/>
   <img align="center" height = "30" width = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
-
+  
+  <br>  
+<div align="center" style="display: inline-block;">
+  <img align="center" 
+  height="180em" src="https://github-readme-stats.vercel.app/api?username=EduDev&repo=github-readme-stats&theme=swift"
+   />
+  <img
+    align="center"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=7&theme=swift"
+  />
+</div>
