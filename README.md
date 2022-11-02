@@ -16,7 +16,7 @@ const Eduardo: EduDevHe = {
   age: "21 🎂",
   mainTools() {
     return [
-      "HTML",
+      "HTML ",
       "CSS",
       "JavaScript",
       "TypeScript",
