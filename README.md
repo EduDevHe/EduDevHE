@@ -2,7 +2,7 @@
 
 ## About me: 
 
- 👋 Hi, my name is Eduardo Henrique, and i work as a Front-End develop 🦄.
+👋 Hi!, my name is Eduardo Henrique, and I'm a software engineering student and web developer 🧑‍💻. I'm fascinated by the JavaScript stack, and I'm always looking for different ways to improve my programming skills 🏋️‍♂️🧠.
 
 ```typescript
 interface EduDevHe {
