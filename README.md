@@ -1,8 +1,10 @@
 # EDUARDO HENRIQUE
 
+# WEB DEVELOP 
 ## About me: 
 
-👋 Hi!, my name is Eduardo Henrique, and I'm a software engineering student and web developer 🧑‍💻. I'm fascinated by the JavaScript stack, and I'm always looking for different ways to improve my programming skills 🏋️‍♂️🧠.
+
+>👋 Hi!, my name is Eduardo Henrique, and I'm a software engineering student and web developer 🧑‍💻. I'm fascinated by the JavaScript stack, and I'm always looking for different ways to improve my programming skills 🏋️‍♂️🧠.
 
 ```typescript
 interface EduDevHe {
@@ -12,8 +14,8 @@ interface EduDevHe {
 }
 
 const Eduardo: EduDevHe = {
-  name: "EDUARDO HENRIQUE 🧠",
-  age: "21 🎂",
+  name: "EDUARDO HENRIQUE",
+  age: "22",
   mainTools() {
     return [
       "HTML ",
@@ -26,7 +28,6 @@ const Eduardo: EduDevHe = {
   },
 };
 ```
-
 ### Main Tools 🧰 :
 
 <div>
@@ -56,4 +57,8 @@ const Eduardo: EduDevHe = {
     height="150em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=7&theme=swift"
   />
+  <a href="https://github.com/EduDevHE/github-stats#gh-light-mode-only">
+  <img src="https://github.com/EduDevHE/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+  <img src="https://github.com/EduDevHE/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+  </a>
 </div>
