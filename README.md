@@ -57,8 +57,9 @@ const Eduardo: EduDevHe = {
     height="150em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=7&theme=swift"
   />
+
+</div>
   <a href="https://github.com/EduDevHE/github-stats#gh-light-mode-only">
   <img src="https://github.com/EduDevHE/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
   <img src="https://github.com/EduDevHE/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
   </a>
-</div>
