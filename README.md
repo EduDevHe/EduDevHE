@@ -28,6 +28,16 @@ const Eduardo: EduDevHe = {
   },
 };
 ```
+<div style="display: inline-block;">
+  <img align="center" 
+  height="180em" src="https://github-readme-stats.vercel.app/api?username=EduDevHe&repo=github-readme-stats&theme=swift&card_width=50%"
+   />
+  <img
+    align="center"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=7&theme=swift&card_width=650px"
+  />
+</div>
 <h2>Front-End:</h2>
 <P align="left">
   <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -55,15 +65,5 @@ const Eduardo: EduDevHe = {
     <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </p>
 
-<div>
-  <img align="center" 
-  height="180em" src="https://github-readme-stats.vercel.app/api?username=EduDevHe&repo=github-readme-stats&theme=swift"
-   />
-  <img
-    align="center"
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=7&theme=swift"
-  />
-</div>
 
 
