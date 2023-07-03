@@ -35,7 +35,7 @@ const Eduardo: EduDevHe = {
   <img
     align="center"
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=7&theme=swift&card_width=550px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=7&theme=swift&card_width=500px"
   />
 </div>
 <h2>Front-End:</h2>
