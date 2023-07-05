@@ -6,6 +6,7 @@
 
 >👋 Hi!, my name is Eduardo Henrique, and I'm a software engineering student and web developer 🧑‍💻. I'm fascinated by the JavaScript stack, and I'm always looking for different ways to improve my programming skills 🏋️‍♂️🧠.
 
+- Typescript code ⬇️⬇️
 ```typescript
 interface EduDevHe {
   name: string;
@@ -18,16 +19,18 @@ const Eduardo: EduDevHe = {
   age: "22",
   mainTools() {
     return [
-      "HTML ",
+      "HTML",
       "CSS",
       "JavaScript",
       "TypeScript",
       "ReactJs",
-      "styled-components",
+      "NodeJs"
+      "PHP",
     ];
   },
 };
 ```
+## My stats
 <div style="display: inline-block;">
   <img align="center" 
   height="200em" src="https://github-readme-stats.vercel.app/api?username=EduDevHe&repo=github-readme-stats&theme=swift"
@@ -39,6 +42,7 @@ const Eduardo: EduDevHe = {
   />
 </div>
 
+## My Favorite Technologies
 <table>
   <tr>
     <td align="center" width = "100" >
