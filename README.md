@@ -100,7 +100,7 @@ const Eduardo: EduDevHe = {
       GO
     </td>
     <td align="center" width = "100" >
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
+      <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
       <br>
       Lua
     </td>
