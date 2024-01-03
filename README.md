@@ -16,7 +16,7 @@ interface EduDevHe {
 
 const Eduardo: EduDevHe = {
   name: "EDUARDO HENRIQUE",
-  age: "22",
+  age: "23",
   mainTools() {
     return [
       "HTML",
