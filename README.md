@@ -3,6 +3,7 @@
 # WEB DEVELOP 
 ## About me: 
 
+<img src="https://github.com/EduDevHe/EduDevHE/blob/main/Edu%20dev.gif" alt="this slowpoke moves"  width="250" />
 
 >👋 Hi!, my name is Eduardo Henrique, and I'm a software engineering student and web developer 🧑‍💻. I'm fascinated by the JavaScript stack, and I'm always looking for different ways to improve my programming skills 🏋️‍♂️🧠.
 
