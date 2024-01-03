@@ -7,7 +7,7 @@
 
 >👋 Hi!, my name is Eduardo Henrique, and I'm a software engineering student and web developer 🧑‍💻. I'm fascinated by the JavaScript stack, and I'm always looking for different ways to improve my programming skills 🏋️‍♂️🧠.
 
-- Typescript code ⬇️⬇️
+- Typescript code <img src="https://github.com/EduDevHe/EduDevHE/blob/main/wololo-age-of-empires.gif" alt="this slowpoke moves"   /> 
 ```typescript
 interface EduDevHe {
   name: string;
