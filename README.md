@@ -1,36 +1,14 @@
 <div>
-  <h2> EDUARDO HENRIQUE S S HOFFMANN </h2>
+  <h2> EDUARDO HENRIQUE DE S S HOFFMANN </h2>
    <img align="right" src="https://github.com/EduDevHe/EduDevHE/blob/main/Edu%20dev.gif" alt="this slowpoke moves"  width="250" />
    <p>👋 Hi!, my name is Eduardo Henrique, and I'm a software engineering student and web developer 🧑‍💻. I'm fascinated by the JavaScript stack, and I'm always looking for different ways to improve my programming skills 🏋️‍♂️🧠.</p>
+   <br>
+  Front-End:  <img align="center" height = "20" width = "20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
 </div>
 
 <br>
+<img src="https://github.com/EduDevHe/EduDevHE/blob/main/wololo-age-of-empires.gif" alt="this slowpoke moves"   /> 
 
-- Typescript code <img src="https://github.com/EduDevHe/EduDevHE/blob/main/wololo-age-of-empires.gif" alt="this slowpoke moves"   /> 
-```typescript
-interface EduDevHe {
-  name: string;
-  age: string;
-  mainSkill(): string[];
-}
-
-const Eduardo: EduDevHe = {
-  name: "EDUARDO HENRIQUE",
-  age: "23",
-  mainTools() {
-    return [
-
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "TypeScript",
-      "ReactJs",
-      "NodeJs"
-      "PHP",
-    ];
-  },
-};
-```
 ## My stats
 <div style="display: inline-block;">
   <img align="center" 
@@ -45,7 +23,7 @@ const Eduardo: EduDevHe = {
 
 ## My Favorite Technologies
  <div>
-      <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      
       <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img height = "40" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>      
