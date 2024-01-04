@@ -1,11 +1,10 @@
-# EDUARDO HENRIQUE
+<div>
+  <h2> EDUARDO HENRIQUE S S HOFFMANN </h2>
+   <img align="right" src="https://github.com/EduDevHe/EduDevHE/blob/main/Edu%20dev.gif" alt="this slowpoke moves"  width="250" />
+   <p>👋 Hi!, my name is Eduardo Henrique, and I'm a software engineering student and web developer 🧑‍💻. I'm fascinated by the JavaScript stack, and I'm always looking for different ways to improve my programming skills 🏋️‍♂️🧠.</p>
+</div>
 
-# WEB DEVELOP 
-## About me: 
-
-<img src="https://github.com/EduDevHe/EduDevHE/blob/main/Edu%20dev.gif" alt="this slowpoke moves"  width="250" />
-
->👋 Hi!, my name is Eduardo Henrique, and I'm a software engineering student and web developer 🧑‍💻. I'm fascinated by the JavaScript stack, and I'm always looking for different ways to improve my programming skills 🏋️‍♂️🧠.
+<br>
 
 - Typescript code <img src="https://github.com/EduDevHe/EduDevHE/blob/main/wololo-age-of-empires.gif" alt="this slowpoke moves"   /> 
 ```typescript
@@ -20,6 +19,7 @@ const Eduardo: EduDevHe = {
   age: "23",
   mainTools() {
     return [
+
       "HTML",
       "CSS",
       "JavaScript",
