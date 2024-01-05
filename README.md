@@ -39,18 +39,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduDevHe&layout=compact&locale=pt-br&langs_count=20&theme=swift"
   />
 </div>
-
-## My Favorite Technologies
- <div>
-      
-     
-      
-      
-      
-     
-     
-      
-      
-      <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-      <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
-</div>
