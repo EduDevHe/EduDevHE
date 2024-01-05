@@ -3,7 +3,7 @@
    <img align="right" src="https://github.com/EduDevHe/EduDevHE/blob/main/Edu%20dev.gif" alt="this slowpoke moves"  width="250" />
     
    <p ><strong>👋 Hi!, my name is Eduardo Henrique, and I'm a software engineering student and web developer. I'm fascinated by the JavaScript stack, and I'm always looking for different ways to</strong>
-   <strong >improve my programming skills.</strong><img align="left"  src="https://github.com/EduDevHe/EduDevHE/blob/main/ryu%20(2).gif" height="40"/> 
+   <strong >improve my programming skills.</strong><img align="center"  src="https://github.com/EduDevHe/EduDevHE/blob/main/ryu%20(2).gif" height="40"/> 
    </p>
    <br>
   
